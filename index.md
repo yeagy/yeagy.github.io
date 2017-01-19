@@ -1,7 +1,7 @@
-#hello
+# hello
 I write software... primarily for the JVM. [Resume](https://yeagy.github.io/resume.html).
 
-Here are some of my contributions to open source:
+Here are some of my contributions to open source:  
 
 * [Better SQL Support](https://github.com/yeagy/bss) is a JDBC utility library. This grew from loathing how JDBC handles null columns and primitive types. Later expanded to a neat java 8 API around JDBC. Finally finished off with a simple ORM that fits my tastes, which is actually a distaste... for hibernate.
 
