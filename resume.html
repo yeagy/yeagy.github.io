@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Chris Yeagy</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.js"></script>
+</head>
+<body>
+  <div id="content">Rendering markdown...</div>
+  <script>
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", "https://raw.githubusercontent.com/yeagy/yeagy.github.io/master/RESUME.md");
+    rawFile.onreadystatechange = function () {
+      if(rawFile.readyState === 4 && rawFile.status === 200) {
+        document.getElementById('content').innerHTML = marked(rawFile.responseText);
+      }
+    }
+    rawFile.send(null);
+  </script>
+</body>
+</html>
