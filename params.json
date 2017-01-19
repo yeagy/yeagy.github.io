@@ -1,7 +1,0 @@
-{
-  "name": "Chris Yeagy",
-  "tagline": "professional code talker",
-  "body": "#hello\r\nI write software... primarily for the JVM.\r\n\r\nHere are some of my contributions to open source:\r\n* [Better SQL Support](https://github.com/yeagy/bss) is a JDBC utility library. This grew from loathing how JDBC handles null columns and primitive types. Later expanded to a neat java 8 API around JDBC. Finally finished off with a simple ORM that fits my tastes, which is actually a distaste... for hibernate.\r\n\r\n* [JAX-RS client generator](https://github.com/yeagy/jaxrs-client-gen) creates java source files from annotated resources. I made this to overcome the limitations of proxy based clients, while still having the convenience of not having to write them by hand.",
-  "google": "",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
