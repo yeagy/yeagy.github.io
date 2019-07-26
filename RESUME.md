@@ -7,7 +7,7 @@ Software Engineer with over 10 years of industry experience. Comfortable with fu
 
 ### Experience
 Senior Software Engineer -- _Porch.com_  
-Seattle Wa -- Dec 2013 - Present
+Seattle Wa -- Dec 2013 - June 2019
 * Developed data-science platform for internal data modeling and prediction.
 * Designed and developed company search platform.
 * Designed and developed company e-commerce and subscription platform.
