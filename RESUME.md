@@ -3,9 +3,19 @@
 [yeagy.github.io](https://yeagy.github.io)
 
 ### Summary
-Software Engineer with over 10 years of industry experience. Comfortable with full-stack development, with a focus in distributed backend systems. Enthusiast of test driven development, pair programming, continuous integration, continuous delivery and cloud PaaS.
+Software Engineer with over 20 years of industry experience. A focus on distributed backend systems, and comfortable navigating the full stack. Enthusiast of microservices, containerization, test driven development, pair programming, continuous integration, continuous delivery and cloud PaaS.
 
 ### Experience
+Senior Software Engineer -- _Branch_  
+Seattle Wa -- Jun 2022 - Current
+* Core platform backend systems development on a very high scale microservices archetecture.
+* Kotlin, Java, Golang, Typescript, JS, Nginx, Kafka, K8s, DynamoDB, Postgres.
+
+Member Of Technical Staff -- _Igneous_  
+Seattle Wa -- Sep 2019 - Nov 2020
+* Full stack development for central cloud systems and internal tooling. 
+* Using Golang, Typescript, InfluxDB and a myriad of internally developed technologies.
+
 Senior Software Engineer -- _Porch.com_  
 Seattle Wa -- Dec 2013 - June 2019
 * Developed data-science platform for internal data modeling and prediction.
@@ -24,7 +34,7 @@ Lead Software Engineer -- _CopiaMobile, LLC_
 Scottsdale Az -- Mar 2011 - Apr 2013
 * Developed a multi-interface marketing platform: mobile, SMS, web and digital sign integration.
 * Responsible for all Flex/Actionscript assets.
-* Designed multi-tenant survey/quiz platform with gamification integration(badgeville).
+* Designed multi-tenant survey/quiz platform with gamification integration (badgeville).
 * Java, J2EE, Spring, Tomcat, MySQL, Hibernate, JBoss, SVN, Git, JS/CSS/HTML, JQuery, Backbone, Flex/Actionscript, Groovy/Grails, PHP, Riak, RabbitMQ, REST, CAS.
 
 Software Development Manager -- _Jawa_  
