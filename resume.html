@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <title>Chris Yeagy</title>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/0.3.6/marked.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.0/marked.min.js"></script>
 </head>
 <body>
   <div id="content">Rendering markdown...</div>
@@ -12,7 +12,7 @@
     rawFile.open("GET", "https://raw.githubusercontent.com/yeagy/yeagy.github.io/master/RESUME.md");
     rawFile.onreadystatechange = function () {
       if(rawFile.readyState === 4 && rawFile.status === 200) {
-        document.getElementById('content').innerHTML = marked(rawFile.responseText);
+        document.getElementById('content').innerHTML = marked.parse(rawFile.responseText);
       }
     }
     rawFile.send(null);
