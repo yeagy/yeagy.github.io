@@ -3,7 +3,8 @@
 [yeagy.github.io](https://yeagy.github.io)
 
 ### Summary
-Software Engineer with over 20 years of industry experience. A focus on distributed backend systems, and comfortable navigating the full stack. Enthusiast of microservices, containerization, test driven development, pair programming, continuous integration, continuous delivery and cloud PaaS.
+Software Engineer with over 20 years of industry experience. A focus on distributed backend systems, and comfortable navigating the full stack.  
+Enthusiast of microservices, containerization, test driven development, pair programming, continuous integration, continuous delivery and cloud PaaS.
 
 ### Experience
 Senior Software Engineer -- _Branch_  
